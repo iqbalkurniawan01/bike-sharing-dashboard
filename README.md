@@ -37,3 +37,5 @@ Library Python yang digunakan:
 - streamlit
 - pandas
 - matplotlib
+- numpy
+- seaborn
