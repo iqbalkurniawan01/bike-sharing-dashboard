@@ -26,6 +26,9 @@ Dataset mencakup informasi jumlah peminjaman sepeda berdasarkan waktu, jenis pen
 Dashboard dapat diakses secara online melalui link berikut:
 https://bike-sharing-dashboard-iqbalkurniawan.streamlit.app/
 
+## Screenshot Dashboard
+![Dashboard Bike Sharing](dashboard.png)
+
 ## Ringkasan Insight
 - Pengguna registered mendominasi jumlah peminjaman sepeda, terutama pada hari kerja.
 - Pola peminjaman per jam menunjukkan dua puncak utama, yaitu pada pagi dan sore hari.
